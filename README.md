@@ -1,4 +1,3 @@
-# running-monitoring
 # 🏃 Running Injury Prevention Monitoring Dashboard
 # 跑步无伤监控系统
 
